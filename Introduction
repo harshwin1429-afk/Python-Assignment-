@@ -1,0 +1,12 @@
+INTRODUCTION 
+
+This assignment helped to practice and strengthen Python programming skills through real-world style problems. 
+The four exercises focus on different areas of Python that are commonly used in Data Science and AI, such as working 
+with dates, performing mathematical calculations, handling files, processing data, and using external APIs.
+
+The first exercise involves creating an age calculator that takes a user’s birth date, checks for valid input, 
+calculates the age, and displays the date in different formats. The second exercise focuses on generating prime 
+numbers within a given range, which helps in understanding loops, functions, and input validation. The third 
+exercise deals with reading and processing student marks from a file, calculating overall scores, assigning grades, 
+and organizing the data in a structured format using NumPy. The final exercise introduces working with real-time 
+data by fetching weather information from an online API, analyzing it, and saving the results in a file.
